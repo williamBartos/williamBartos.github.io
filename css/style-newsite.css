@@ -169,7 +169,7 @@ desc{
 }
 
 .stamp{
-	content:url("../pics/stamp2.png");
+	content:url("../pics/stamp2.jpg");
 	margin:auto;
 	margin-bottom:2.5em;
 	padding-top:5em;
@@ -194,7 +194,7 @@ desc{
 }
 
 #poisson-code{
-	content:url("../pics/poissoncode.png");
+	content:url("../pics/poissoncode.jpg");
 	margin:auto;
 	margin-bottom:2.5em;
 	margin-right:2.5em;
@@ -204,7 +204,7 @@ desc{
 }
 
 #advent{
-	content:url("../pics/advent.png");
+	content:url("../pics/advent.jpg);
 	margin:auto;
 	margin-bottom:2.5em;
 	margin-right:2.5em;
