@@ -1,6 +1,6 @@
 
 body {
-	background-image:url("grid.png");
+	background-image:url("../pics/grid.png");
 	
 
 }
@@ -169,7 +169,7 @@ desc{
 }
 
 .stamp{
-	content:url("stamp2.png");
+	content:url("../pics/stamp2.png");
 	margin:auto;
 	margin-bottom:2.5em;
 	padding-top:5em;
@@ -183,7 +183,7 @@ desc{
 }
 
 #poisson{
-	content:url("poisson.png");
+	content:url("../pics/poisson.png");
 	margin:auto;
 	margin-bottom:2.5em;
 	margin-right:2.5em;
@@ -194,7 +194,7 @@ desc{
 }
 
 #poisson-code{
-	content:url("poissoncode.png");
+	content:url("../pics/poissoncode.png");
 	margin:auto;
 	margin-bottom:2.5em;
 	margin-right:2.5em;
@@ -204,7 +204,7 @@ desc{
 }
 
 #advent{
-	content:url("advent.png");
+	content:url("../pics/advent.png");
 	margin:auto;
 	margin-bottom:2.5em;
 	margin-right:2.5em;
