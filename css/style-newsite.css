@@ -169,48 +169,41 @@ desc{
 }
 
 .stamp{
-	content:url("../pics/stamp2.jpg");
-	margin:auto;
-	margin-bottom:2.5em;
-	padding-top:5em;
+	content:url("../pics/sampleStamp.gif");
+	width:100%;	
+	display:inline-block;
 }
 
-.image-container{
+.imageContainer{
 	width:100%;
+	padding-top:5em;
+	max-width:800px;
 	margin:auto;
-	padding: .5em;	
-	
+
 }
 
 #poisson{
 	content:url("../pics/poisson.png");
-	margin:auto;
-	margin-bottom:2.5em;
-	margin-right:2.5em;
-	padding-top:5em;
-	width:540px;
-	height:auto;
-	display:inline-block;
+	width: 35%; 
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 #poisson-code{
 	content:url("../pics/poissoncode.jpg");
-	margin:auto;
-	margin-bottom:2.5em;
-	margin-right:2.5em;
-	padding-top:5em;
-	height:337.250px;
-	display:inline-block;
+	width: 35%; 
+	display: inline-block;
+    margin-left: auto;
+    margin-right: 10%;
+    
 }
 
-#advent{
+.advent{
 	content:url("../pics/advent.png");
+	display:block;
 	margin:auto;
-	margin-bottom:2.5em;
-	margin-right:2.5em;
-	padding-top:5em;
-	height:auto;
-	display:inline-block;
 }
 
 .hangingindent {
