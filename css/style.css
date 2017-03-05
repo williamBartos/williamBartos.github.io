@@ -1,0 +1,67 @@
+
+body {
+	background-image:url("../css/bg3.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+	
+
+
+}
+
+article, header, p, ul, li {
+	padding:0.5em;
+	text-align: center;
+	background-color:white;
+}
+
+p {
+  margin: 1em auto;
+}
+
+header, h1, h4 {
+	margin:0.1em 0 0.1em 0;
+}
+
+#banner{
+	border-radius:5px;
+	text-align:center;
+	letter-spacing:4px;
+	max-width:500px;
+	background-color: white;
+	font-size:18px;
+	color:black;
+	margin-bottom:8em;
+	padding: 1em;
+
+}
+
+
+h1{
+	font-size:24px;
+	font-weight:bold;
+	font-family:Arial, sans-serif;
+	letter-spacing:4px;
+	margin: 0.1em 0 0.1em 0;
+	margin-bottom:.25em;
+}
+
+
+.container {
+	max-width: 800px;
+	margin:1em auto;
+	box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.3);
+	background-color: rgba(202, 202, 202, 0.5);
+
+
+}
+
+
+.link {
+	font-size:22px;
+	font-family:Arial, sans-serif;
+	letter-spacing:4px;
+	color:black;
+	text-decoration:none;
+	
+}
